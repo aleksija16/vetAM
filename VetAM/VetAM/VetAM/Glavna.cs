@@ -7,6 +7,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using VetAM.DomainModel;
@@ -647,6 +648,19 @@ namespace VetAM
             ((IRawGraphClient)client).ExecuteCypher(query);
 
             MessageBox.Show("Uspesno uklanjanje cipa.\nID zivotinje: " + zl[0].idZivotinja);
+        }
+
+        private void btnOdjava_Click(object sender, EventArgs e)
+        {
+            Thread th = new Thread(prijaviSeForma);
+            th.SetApartmentState(ApartmentState.STA);
+            th.Start();
+            this.Close();
+        }
+
+        private void prijaviSeForma()
+        {
+            Application.Run(new Form1());
         }
     }
 }

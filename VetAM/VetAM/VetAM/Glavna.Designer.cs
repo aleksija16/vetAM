@@ -141,6 +141,7 @@
             this.txtUklanjanjeIdZivotinje = new System.Windows.Forms.TextBox();
             this.label51 = new System.Windows.Forms.Label();
             this.label52 = new System.Windows.Forms.Label();
+            this.btnOdjava = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnZatvoriGlavnu
@@ -1376,12 +1377,28 @@
             this.label52.TabIndex = 106;
             this.label52.Text = "Uklanjanje mikrocipa:";
             // 
+            // btnOdjava
+            // 
+            this.btnOdjava.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(78)))), ((int)(((byte)(184)))), ((int)(((byte)(206)))));
+            this.btnOdjava.FlatAppearance.BorderSize = 0;
+            this.btnOdjava.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnOdjava.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOdjava.ForeColor = System.Drawing.Color.White;
+            this.btnOdjava.Location = new System.Drawing.Point(12, 29);
+            this.btnOdjava.Name = "btnOdjava";
+            this.btnOdjava.Size = new System.Drawing.Size(78, 29);
+            this.btnOdjava.TabIndex = 112;
+            this.btnOdjava.Text = "Odjavi se";
+            this.btnOdjava.UseVisualStyleBackColor = false;
+            this.btnOdjava.Click += new System.EventHandler(this.btnOdjava_Click);
+            // 
             // Glavna
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(36)))), ((int)(((byte)(49)))));
             this.ClientSize = new System.Drawing.Size(1586, 812);
+            this.Controls.Add(this.btnOdjava);
             this.Controls.Add(this.btnUkloniCip);
             this.Controls.Add(this.txtUklanjanjeIdZivotinje);
             this.Controls.Add(this.label51);
@@ -1620,5 +1637,6 @@
         private System.Windows.Forms.TextBox txtUklanjanjeIdZivotinje;
         private System.Windows.Forms.Label label51;
         private System.Windows.Forms.Label label52;
+        private System.Windows.Forms.Button btnOdjava;
     }
 }
