@@ -48,20 +48,3 @@ C:\Users\Korisnik\Desktop\VetAM\VetAM\VetAM\obj\Debug\VetAM.csproj.CoreCompileIn
 C:\Users\Korisnik\Desktop\VetAM\VetAM\VetAM\obj\Debug\VetAM.csproj.CopyComplete
 C:\Users\Korisnik\Desktop\VetAM\VetAM\VetAM\obj\Debug\VetAM.exe
 C:\Users\Korisnik\Desktop\VetAM\VetAM\VetAM\obj\Debug\VetAM.pdb
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\bin\Debug\VetAM.exe.config
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\bin\Debug\VetAM.exe
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\bin\Debug\Neo4jClient.dll
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\bin\Debug\Newtonsoft.Json.dll
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\bin\Debug\Neo4jClient.pdb
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\bin\Debug\Neo4jClient.xml
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\bin\Debug\Newtonsoft.Json.xml
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\obj\Debug\VetAM.csprojAssemblyReference.cache
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\obj\Debug\VetAM.Form1.resources
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\obj\Debug\VetAM.Glavna.resources
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\obj\Debug\VetAM.Properties.Resources.resources
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\obj\Debug\VetAM.csproj.GenerateResource.cache
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\obj\Debug\VetAM.csproj.CoreCompileInputs.cache
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\obj\Debug\VetAM.csproj.CopyComplete
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\obj\Debug\VetAM.exe
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\obj\Debug\VetAM.pdb
-E:\A Faks\Naprebne baze podataka\Projekti\vetAM\vetAM\VetAM\VetAM\VetAM\bin\Debug\VetAM.pdb
